@@ -1,0 +1,130 @@
+### ID_1 ###
+Track : 1
+Axis1 : 24.39 % 
+Axis2 : 14.44 % 
+ 
+
+Track : 2
+Axis1 : 26.02 % 
+Axis2 : 17.76 % 
+ 
+
+Track : 3
+Axis1 : 26.85 % 
+Axis2 : 16.68 % 
+ 
+
+Track : 4
+Axis1 : 22.21 % 
+Axis2 : 18.47 % 
+ 
+
+Track : 5
+Axis1 : 24.61 % 
+Axis2 : 16.20 % 
+ 
+
+### ID_2 ###
+Track : 1
+Axis1 : 24.74 % 
+Axis2 : 15.97 % 
+ 
+
+Track : 2
+Axis1 : 25.77 % 
+Axis2 : 15.89 % 
+ 
+
+Track : 3
+Axis1 : 27.35 % 
+Axis2 : 16.44 % 
+ 
+
+Track : 4
+Axis1 : 22.76 % 
+Axis2 : 16.84 % 
+ 
+
+Track : 5
+Axis1 : 24.80 % 
+Axis2 : 15.84 % 
+ 
+
+### ID_3 ###
+Track : 1
+Axis1 : 24.51 % 
+Axis2 : 15.33 % 
+ 
+
+Track : 2
+Axis1 : 26.30 % 
+Axis2 : 16.66 % 
+ 
+
+Track : 3
+Axis1 : 26.80 % 
+Axis2 : 15.82 % 
+ 
+
+Track : 4
+Axis1 : 22.03 % 
+Axis2 : 16.60 % 
+ 
+
+Track : 5
+Axis1 : 24.60 % 
+Axis2 : 16.29 % 
+ 
+
+### ID_4 ###
+Track : 1
+Axis1 : 24.60 % 
+Axis2 : 17.04 % 
+ 
+
+Track : 2
+Axis1 : 26.70 % 
+Axis2 : 17.35 % 
+ 
+
+Track : 3
+Axis1 : 26.88 % 
+Axis2 : 16.64 % 
+ 
+
+Track : 4
+Axis1 : 22.03 % 
+Axis2 : 15.61 % 
+ 
+
+Track : 5
+Axis1 : 24.70 % 
+Axis2 : 15.66 % 
+ 
+
+### ID_5 ###
+Track : 1
+Axis1 : 24.43 % 
+Axis2 : 15.66 % 
+ 
+
+Track : 2
+Axis1 : 26.16 % 
+Axis2 : 16.74 % 
+ 
+
+Track : 3
+Axis1 : 26.86 % 
+Axis2 : 16.65 % 
+ 
+
+Track : 4
+Axis1 : 22.16 % 
+Axis2 : 16.36 % 
+ 
+
+Track : 5
+Axis1 : 24.60 % 
+Axis2 : 15.11 % 
+ 
+
